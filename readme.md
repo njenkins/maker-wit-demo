@@ -7,7 +7,7 @@ to highlight how [Wit.ai](https://wit.ai) can be used to add a natural language 
 
 Grab the project files and navigate to the installed project root
 ```bash
-git clone https://njenkinsau@bitbucket.org/njenkinsau/maker-wit-demo.git && cd maker-wit-demo
+git clone https://github.com/njenkins/maker-wit-demo && cd maker-wit-demo
 ```
 
 Install all external dependencies
