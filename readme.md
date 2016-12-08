@@ -1,4 +1,5 @@
 # Voice control for Arduino with Wit.ai and Johnny Five
+[![Build Status](https://travis-ci.org/njenkins/maker-wit-demo.svg?branch=master)](https://travis-ci.org/njenkins/maker-wit-demo)
 
 This project was developed for a demo at the Blue Mountains digital makers group
 to highlight how [Wit.ai](https://wit.ai) can be used to add a natural language interface to Arduino projects
@@ -7,7 +8,7 @@ to highlight how [Wit.ai](https://wit.ai) can be used to add a natural language 
 
 Grab the project files and navigate to the installed project root
 ```bash
-git clone https://njenkinsau@bitbucket.org/njenkinsau/maker-wit-demo.git && cd maker-wit-demo
+git clone https://github.com/njenkins/maker-wit-demo && cd maker-wit-demo
 ```
 
 Install all external dependencies
