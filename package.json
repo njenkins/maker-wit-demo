@@ -1,0 +1,27 @@
+{
+  "name": "maker-wit-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test && mocha tests"
+  },
+  "bin": {
+    "maker-wit-demo": "node index.js"
+  },
+  "author": "Nathan Jenkins",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "johnny-five": "^0.10.6",
+    "mocha": "^3.2.0",
+    "node-wit": "^4.1.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-jscs": "^3.0.1",
+    "grunt-jslint": "^1.1.14"
+  }
+}
