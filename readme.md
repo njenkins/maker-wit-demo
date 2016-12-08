@@ -39,6 +39,11 @@ Available configuration options are:
 * **startKey** : The key which when pressed will start audio capture. If not provided, default of `x` will be used.
 * **stopKey** : The key which when pressed will stop audio capture and commence speech to text translation. If not provided, default of `z` will be used.
 
+## Running this application
+Inside the project directory run the command `npm start` . To issue a voice command, press the key you have specified as the `startKey` within your config file.
+
+Press the `stopKey` to stop recording and have it send to the Wit.ai API for interpretation.
+
 ## Testing
 Issuing the command `npm test` will execute the following tests.
 * JSHint validation to highlight any javascript errors

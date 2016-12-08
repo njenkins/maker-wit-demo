@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "grunt test && mocha tests"
+    "test": "grunt test && mocha tests",
+    "start": "node index.js"
   },
   "bin": {
     "maker-wit-demo": "node index.js"
